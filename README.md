@@ -1,4 +1,4 @@
-# JsonAppBuilder
+# JsonBuilderApp
 
 > JsonBuilderApp (https://jsonbuilderapp.com) is a no-code / low-code platform for designing, generating, and deploying full-stack business applications. Users model data, REST APIs, workflows, reports, and pages visually, then generate NestJS + React source ZIP files and deploy to Local Docker, self-hosted servers, Azure, AWS, Kubernetes, or a cloud CDN.
 
