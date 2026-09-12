@@ -1,8 +1,8 @@
 # JsonAppBuilder
 
-> JsonAppBuilder (https://jsonbuilderapp.com) is a no-code / low-code platform for designing, generating, and deploying full-stack business applications. Users model data, REST APIs, workflows, reports, and pages visually, then generate NestJS + React source ZIP files and deploy to Local Docker, self-hosted servers, Azure, AWS, Kubernetes, or a cloud CDN.
+> JsonBuilderApp (https://jsonbuilderapp.com) is a no-code / low-code platform for designing, generating, and deploying full-stack business applications. Users model data, REST APIs, workflows, reports, and pages visually, then generate NestJS + React source ZIP files and deploy to Local Docker, self-hosted servers, Azure, AWS, Kubernetes, or a cloud CDN.
 
-JsonAppBuilder is also known historically as MetaBuilder and Nexa MetaBuilder. The public product name and domain are **JsonAppBuilder** and **jsonbuilderapp.com**.
+JsonAppBuilder is also known historically as MetaBuilder and Nexa MetaBuilder. The public product name and domain are **JsonBuilderApp** and **jsonbuilderapp.com**.
 
 The platform does not host the customer's production database. Generated apps run on infrastructure the customer provides.
 
